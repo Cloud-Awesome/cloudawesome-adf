@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudAwesome.Adf", "CloudAwesome.Adf\CloudAwesome.Adf.csproj", "{551455F2-AAC6-45EA-BD91-CC6F63780F2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudAwesome.Adf.Cli", "CloudAwesome.Adf.Cli\CloudAwesome.Adf.Cli.csproj", "{B9748897-2570-4F2C-88CF-496279C3B93D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudAwesome.Adf.Pdf", "CloudAwesome.Adf.Pdf\CloudAwesome.Adf.Pdf.csproj", "{3B3DCF41-ECE6-4F28-B2BB-44AD3882A5BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{551455F2-AAC6-45EA-BD91-CC6F63780F2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{551455F2-AAC6-45EA-BD91-CC6F63780F2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{551455F2-AAC6-45EA-BD91-CC6F63780F2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{551455F2-AAC6-45EA-BD91-CC6F63780F2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9748897-2570-4F2C-88CF-496279C3B93D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9748897-2570-4F2C-88CF-496279C3B93D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9748897-2570-4F2C-88CF-496279C3B93D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9748897-2570-4F2C-88CF-496279C3B93D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B3DCF41-ECE6-4F28-B2BB-44AD3882A5BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B3DCF41-ECE6-4F28-B2BB-44AD3882A5BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B3DCF41-ECE6-4F28-B2BB-44AD3882A5BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B3DCF41-ECE6-4F28-B2BB-44AD3882A5BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
